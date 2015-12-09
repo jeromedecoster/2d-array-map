@@ -1,0 +1,20 @@
+{
+  "name": "2d-array-map",
+  "version": "0.1.0",
+  "description": "map function for 2d array",
+  "readme": "map function for 2d array",
+  "repository": "jeromedecoster/2d-array-map",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "tape test.js | tap-min"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tap-min": "^1.0.0",
+    "tape": "^4.2.2"
+  }
+}
